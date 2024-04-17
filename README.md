@@ -63,7 +63,8 @@ plt.show()
 
 
 <H3>Output:</H3>
-![Screenshot 2024-04-16 123019](https://github.com/charumathiramesh/Ex-5--AAI/assets/120204455/5a7403e2-9669-4a9d-9e51-161fcbc8f3d4)
+
+![image](https://github.com/charumathiramesh/Ex-5--AAI/assets/120204455/8479a3f4-2c1a-460b-a1dd-3083d3268f3b)
 
 
 
